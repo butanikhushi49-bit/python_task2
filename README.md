@@ -2,9 +2,13 @@
 This project fetches 5-day / 3-hour forecast data from the OpenWeatherMap API, processes it, and generates:
 
 📊 Charts (PNG) → Temperature and Humidity
+
 🌍 Interactive HTML Dashboard with Plotly
+
 📄 CSV file containing the forecast data
+
 📰 PDF Report (summary + charts)
+
 
 🚀 Features
 Fetches weather forecast data for any city using OpenWeatherMap API.
